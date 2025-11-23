@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: JMU-Wearable-Computing.github.io/sitemap.xml
