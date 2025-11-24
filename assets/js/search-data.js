@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "Past and Present Research Projects for the Wearable Computing Group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-people",
+  },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
           section: "Navigation",
