@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Past and Present Research Projects for the Wearable Computing Group
-nav: true
+nav: false
 nav_order: 1
 display_categories: [Active, Archive]
 horizontal: false
