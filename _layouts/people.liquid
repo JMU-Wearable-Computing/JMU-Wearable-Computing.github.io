@@ -1,0 +1,77 @@
+---
+layout: default
+---
+
+<style>
+  .profile-img-circular {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 50%;
+    padding: 1rem;
+  }
+</style>
+
+<div class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <article>
+    {% if page.faculty %}
+    <h2>Faculty</h2>
+    <div class="row row-cols-1 row-cols-md-4 g-4">
+      {% for person in page.faculty %}
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ person.image | relative_url }}" class="profile-img-circular" alt="{{ person.name }}">
+          <div class="card-body">
+            <h5 class="card-title">{{ person.name }}</h5>
+            <p class="card-text">{{ person.title }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.students %}
+    <h2 class="mt-4">Current Students</h2>
+    <div class="row row-cols-1 row-cols-md-4 g-4 mt-3">
+      {% for person in page.students %}
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ person.image | relative_url }}" class="profile-img-circular" alt="{{ person.name }}">
+          <div class="card-body">
+            <h5 class="card-title">{{ person.name }}</h5>
+            <p class="card-text">{{ person.degree }}</p>
+            <p class="card-text">{{ person.topic }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if page.alumni %}
+    <h2 class="mt-4">Alumni</h2>
+    <div class="row row-cols-1 row-cols-md-4 g-4 mt-3">
+      {% for person in page.alumni %}
+      <div class="col">
+        <div class="card h-100">
+          <img src="{{ person.image | relative_url }}" class="profile-img-circular" alt="{{ person.name }}">
+          <div class="card-body">
+            <h5 class="card-title">{{ person.name }}</h5>
+            <p class="card-text">{{ person.degree }}</p>
+            <p class="card-text">{{ person.employer }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {{ content }}
+  </article>
+</div>
