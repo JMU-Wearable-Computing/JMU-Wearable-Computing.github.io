@@ -9,4 +9,11 @@ category: Active
 
 ## Support for Visual Impairment
 
-[Content to be added - describe your research on wearable computing systems that support individuals with visual impairments]
+- Megan's haptic feedback for Braille
+- Mahdis work on peripersonal navigation
+
+<div class="row" markdown="1">
+
+![visual impairment](assets/img/visual_impairment.jpg)
+
+![placeholder image](assets/img/1.jpg)
