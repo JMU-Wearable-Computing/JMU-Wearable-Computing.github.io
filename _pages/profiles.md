@@ -2,7 +2,7 @@
 layout: people
 permalink: /people/
 title: people
-description: members of the lab or group
+description: Faculty, student, and alumni of the Wearable Computing Group
 nav: true
 nav_order: 2
 
@@ -64,7 +64,7 @@ alumni:
     degree: Engineering '22
     employer: Carnegie Mellon University MS in Human-Computer Interaction Pittsburgh, PA
     image: assets/img/headshots/webster.jpg
-  - name: Sophia Cronin
+  - name: Sophia Settles
     degree: Engineering '21
     employer: Reliability Engineer Microsoft Chantilly, VA
     image: assets/img/headshots/cronin.jpg
