@@ -11,6 +11,8 @@ category: Active
 
 Athletic performance measures are critical for understanding an athlete's explosive power and strength. Traditional methods for calculating metrics like the Reactive Strength Index (RSI) require expensive force plates that are stationary and difficult to deploy in field settings. Our research explores using low-cost, lightweight inertial measurement units (IMUs) as alternative for measuring athlete performance.
 
+Our recent work applies the low-cost measures, and high-fidelity motion capture, to assess JMU Software in evaluating athlete performance and recovery.
+
 
 ### Reactive Strength Index Research
 
