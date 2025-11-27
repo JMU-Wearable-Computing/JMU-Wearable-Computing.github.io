@@ -23,20 +23,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-student-presents-at-virginia-academy-of-science",
+        },{id: "post-julia-larson-presents-at-virginia-academy-of-science",
         
-          title: "Student Presents at Virginia Academy of Science",
+          title: "Julia Larson Presents at Virginia Academy of Science",
         
-        description: "Student research presentation at Virginia Academy of Science",
+        description: "Julia Larson presents research at Virginia Academy of Science",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2025/spring2025/";
           
         },
-      },{id: "post-undergraduate-researchers-present-at-capwic-and-sieds-2024",
+      },{id: "post-megan-caulfield-julia-larson-and-abby-ensogna-present-at-capwic-and-sieds-2024",
         
-          title: "Undergraduate Researchers Present at CAPWIC and SIEDS 2024",
+          title: "Megan Caulfield, Julia Larson, and Abby Ensogna Present at CAPWIC and SIEDS 2024...",
         
         description: "Research presentations at two conferences",
         section: "Posts",
@@ -45,9 +45,9 @@ ninja.data = [{
             window.location.href = "/blog/2024/spring2024/";
           
         },
-      },{id: "post-students-present-wearables-research-at-ncur-2023",
+      },{id: "post-megan-caulfield-and-justin-blevins-present-at-ncur-2023",
         
-          title: "Students Present Wearables Research at NCUR 2023",
+          title: "Megan Caulfield and Justin Blevins Present at NCUR 2023",
         
         description: "Megan Caulfield and Justin Blevins present haptic feedback research at NCUR",
         section: "Posts",
@@ -67,9 +67,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/fall2021-update/";
           
         },
-      },{id: "post-wearable-computing-lab-researchers-present-at-several-conferences",
+      },{id: "post-stephen-mitchell-sophia-cronin-tyler-webster-and-jonathan-li-present-at-ieee-southeast-and-capwic-2021",
         
-          title: "Wearable Computing Lab Researchers Present at Several Conferences",
+          title: "Stephen Mitchell, Sophia Cronin, Tyler Webster, and Jonathan Li Present at IEEE SouthEast...",
         
         description: "Spring 2021 conference presentations by undergraduate researchers",
         section: "Posts",
@@ -78,9 +78,9 @@ ninja.data = [{
             window.location.href = "/blog/2021/ieee-capwic-2021/";
           
         },
-      },{id: "post-undergraduate-researcher-presents-at-marcus-2019",
+      },{id: "post-stephen-mitchell-presents-at-marcus-2019",
         
-          title: "Undergraduate Researcher Presents at MARCUS 2019",
+          title: "Stephen Mitchell Presents at MARCUS 2019",
         
         description: "Stephen Mitchell presents athlete performance research at MARCUS",
         section: "Posts",
@@ -89,9 +89,9 @@ ninja.data = [{
             window.location.href = "/blog/2019/marcus2019/";
           
         },
-      },{id: "post-undergraduate-researcher-presents-at-acm-capwic",
+      },{id: "post-sanarea-ali-presents-at-acm-capwic-2019",
         
-          title: "Undergraduate Researcher Presents at ACM CAPWIC",
+          title: "Sanarea Ali Presents at ACM CAPWIC 2019",
         
         description: "Sanarea Ali presents wearable computing research at CAPWIC 2019",
         section: "Posts",
@@ -107,6 +107,9 @@ ninja.data = [{
               window.location.href = "/books/the_godfather/";
             },},{id: "news-site-launched-people-completed-projects-under-construction",
           title: 'Site Launched! - People Completed, Projects Under Construction.',
+          description: "",
+          section: "News",},{id: "news-news-blog-updated",
+          title: 'News blog updated.',
           description: "",
           section: "News",},{id: "projects-athlete-performance",
           title: 'Athlete Performance',
