@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: main_splash.jpg
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -19,7 +19,7 @@ announcements:
   limit: 5
 
 latest_posts:
-  enabled: false
+  enabled: true
   scrollable: true
   limit: 3
 ---

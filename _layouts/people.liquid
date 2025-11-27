@@ -24,7 +24,7 @@ layout: default
     <div class="row row-cols-1 row-cols-md-4 g-4">
       {% for person in page.faculty %}
       <div class="col">
-        <div class="card h-100">
+        <div class="card h-100" id="{{ person.name | slugify }}">
           <img src="{{ person.image | relative_url }}" class="profile-img-circular" alt="{{ person.name }}">
           <div class="card-body">
             <h5 class="card-title">{{ person.name }}</h5>
@@ -41,7 +41,7 @@ layout: default
     <div class="row row-cols-1 row-cols-md-4 g-4 mt-3">
       {% for person in page.students %}
       <div class="col">
-        <div class="card h-100">
+        <div class="card h-100" id="{{ person.name | slugify }}">
           <img src="{{ person.image | relative_url }}" class="profile-img-circular" alt="{{ person.name }}">
           <div class="card-body">
             <h5 class="card-title">{{ person.name }}</h5>
@@ -59,7 +59,7 @@ layout: default
     <div class="row row-cols-1 row-cols-md-4 g-4 mt-3">
       {% for person in page.alumni %}
       <div class="col">
-        <div class="card h-100">
+        <div class="card h-100" id="{{ person.name | slugify }}">
           <img src="{{ person.image | relative_url }}" class="profile-img-circular" alt="{{ person.name }}">
           <div class="card-body">
             <h5 class="card-title">{{ person.name }}</h5>
