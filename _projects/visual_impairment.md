@@ -29,3 +29,9 @@ We have significant collaborations with [Dr. Sol Lim](https://www.ise.vt.edu/peo
 This work has been supported by 4-VA:
 
 - **4-VA Grant** ($30,000, awarded 2022): "Supporting College Students with Impaired Vision in a Shared Housing Through Haptic-Guided Peripersonal Navigation" with [Dr. Sol Lim](https://www.ise.vt.edu/people/faculty/lim.html) (Virginia Tech, PI) and Dr. Michael Stewart (JMU, Co-PI)
+
+### Publications & Presentations
+
+- Mahdis Tajdari, Jason Forsyth, and Sol Lim, “Navigating with Haptic Gloves: Investigating Strategies for Horizontal and Vertical Movement Guidance,” *International Journal of Human-Computer Studies*, Vol. 203, September 2025. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1071581925001399)
+- Mahdis Tajdari, Jason Forsyth, and Sol Lim, “Sensitivity to Vibrotactile Stimulation in the Hand and Wrist: Effects of Motion, Temporal Patterns, and Biological Sex,” *Human Factors: The Journal of the Human Factors and Ergonomics Society*, Vol. 64, Issue 4, pp. 331–345, 2024. [Link](https://vtechworks.lib.vt.edu/bitstreams/cdc633f3-223f-496c-8348-48778fd4b90a/download)
+- Megan Caulfield*, Jason Forsyth, Laura Deportes, and Daniel Castaneda, “Braille Learning using Haptic Feedback,” *IEEE Systems and Information Engineering Design Symposium (SIEDS)*, Charlottesville, VA, 2024 (full paper, abstract reviewed). [Link](https://vtechworks.lib.vt.edu/bitstreams/cdc633f3-223f-496c-8348-48778fd4b90a/download)

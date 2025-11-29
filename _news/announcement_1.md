@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Site Launched! - People Completed, Projects Under Construction.
+Site Launched!
