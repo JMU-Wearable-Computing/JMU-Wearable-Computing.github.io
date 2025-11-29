@@ -103,3 +103,10 @@ This work has been supported by multiple grants from 4-VA and the JMU College of
 - **JMU CISE Faculty Development Fund** ($2,500, awarded 2019): "A Wearable Computing System to Increase Access to Healthcare and Patient Outcomes in Physical Rehabilitation Exercises" with Dr. Michael Stewart
 
 Our lab maintains motion capture systems, wearable data capture and feedback systems, real-time IMU streaming, and deep learning infrastructure to support this research.
+
+### Publications & Presentations
+
+- Justin Blevins, Megan Caulfield, and Jason Forsyth, “Tactile Instructions for Wearable Physical Rehabilitation,” poster presentation at the 2023 National Conference on Undergraduate Research (NCUR), Eau-Claire, WI. ([PDF](/assets/pdf/ncur-poster-2023.pdf))
+- Megan Caulfield and Jason Forsyth, “Student Research Short: Wearable Computing for Physical Rehabilitation,” presentation at the 2022 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract).
+- Sophia Cronin, Tyler Webster, and Jason Forsyth, “Student Research Short: Wearable Computing for Physical Rehabilitation,” presentation at the 2021 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract). ([PDF](/assets/pdf/cronin-webster-capwic-2021-presentation.pdf))
+- Sanarea Ali and Jason Forsyth, “Student Research Short: Wearable Computing for Assessing Joint Angles and Range of Motion,” presentation at the 2019 ACM Capital Region Celebration of Women in Computing (CAPWIC) (refereed as abstract). ([PDF](/assets/pdf/Abstract-Wearable-Computing-for-Physical-Rehabilitation.pdf))
