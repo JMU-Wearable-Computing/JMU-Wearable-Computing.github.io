@@ -21,3 +21,11 @@ Megan Caulfield presented the results of her honors thesis, ["Braille Learning u
 <div class="caption">
     Megan Caulfield Presentation at SIEDS 2024
 </div>
+
+### Peripersonal Navigation
+
+We have significant collaborations with [Dr. Sol Lim](https://www.ise.vt.edu/people/faculty/lim.html) in the [Occupational Ergonomics and Biomechanics (OEB) Laboratories](https://oeb.ise.vt.edu/) at Virginia Tech. We have directly supported the work of Mahdis Tajdari by developing custom hardware to provide haptic feedback. Her research explores how various haptic patterns help persons with vision impairment locate objects and navigate peripersonal space.
+
+This work has been supported by 4-VA:
+
+- **4-VA Grant** ($30,000, awarded 2022): "Supporting College Students with Impaired Vision in a Shared Housing Through Haptic-Guided Peripersonal Navigation" with [Dr. Sol Lim](https://www.ise.vt.edu/people/faculty/lim.html) (Virginia Tech, PI) and Dr. Michael Stewart (JMU, Co-PI)
