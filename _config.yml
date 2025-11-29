@@ -8,7 +8,7 @@ middle_name:
 last_name:
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Website for the Wearable Computing Group at James Madison University
 footer_text: >
   © Copyright 2025. JMU Wearable Computing Group
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
