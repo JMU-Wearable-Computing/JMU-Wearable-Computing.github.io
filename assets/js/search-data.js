@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-people",
+  },{id: "nav-projects",
+          title: "projects",
+          description: "Past and Present Research Projects for the Wearable Computing Group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-people",
           title: "people",
           description: "Faculty, student, and alumni of the Wearable Computing Group",
           section: "Navigation",
@@ -105,11 +112,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-site-launched-people-completed-projects-under-construction",
-          title: 'Site Launched! - People Completed, Projects Under Construction.',
-          description: "",
-          section: "News",},{id: "news-news-blog-updated",
-          title: 'News blog updated.',
+            },},{id: "news-site-launched",
+          title: 'Site Launched!',
           description: "",
           section: "News",},{id: "projects-athlete-performance",
           title: 'Athlete Performance',
@@ -118,7 +122,7 @@ ninja.data = [{
               window.location.href = "/projects/athlete_performance/";
             },},{id: "projects-at-home-physical-therapy",
           title: 'At-Home Physical Therapy',
-          description: "Wearable systems for remote physical therapy monitoring and guidance",
+          description: "Wearable systems for physical therapy monitoring and guidance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/physical_therapy/";
             },},{id: "projects-support-for-visual-impairment",
