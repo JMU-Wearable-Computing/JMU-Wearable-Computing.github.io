@@ -50,3 +50,8 @@ This work was conducted in collaboration with [Dr. Stu Thompson](http://www.buck
 <div class="caption">
     JMU Softball in the Wearable Computing Lab
 </div>
+
+### Publications & Presentations
+
+- Stephen Mitchell, Jason Forsyth, and Michael S. Thompson, “Exploring Amateur Performance in Athletic Tests Using Wearable Sensors,” *IEEE Systems and Information Engineering Design Symposium (SIEDS)*, Charlottesville, VA, 2021 (full paper, abstract reviewed). ([PDF](/assets/pdf/mitchell-sieds-camera-ready.pdf))
+- Stephen Mitchell, Jason Forsyth, and Michael Thompson, “Assessing Athletic Performance with a Wearable Inertial Measurement Unit,” presentation at the 2021 IEEE SouthEast Conference (short paper). ([PDF](/assets/pdf/MitchellS-T7S2-ieee-ready.pdf))
