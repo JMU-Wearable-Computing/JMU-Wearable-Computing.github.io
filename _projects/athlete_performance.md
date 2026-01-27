@@ -27,11 +27,7 @@ Undergraduate researcher Stephen Mitchell led a multi-year effort to validate IM
     Stephen Mitchell presenting his RSI research results at SIEDS 2021
 </div>
 
-Stephen's research was presented at multiple venues:
-- **MARCUS 2019**: Initial findings on IMU-based drop jump measurements ([abstract](/assets/pdf/mitchell-marcus-abstract.pdf), [poster](/assets/pdf/mitchell-marcus-poster.pdf))
-- **IEEE SouthEast Conference 2021**: Extended analysis ([short paper](/assets/pdf/MitchellS-T7S2-ieee-ready.pdf), [presentation](/assets/pdf/Mitchell-IEEE-Presentation.pdf))
-- **SIEDS 2021**: Full publication with full user study ([full paper](/assets/pdf/mitchell-sieds-camera-ready.pdf))
-
+Stephen's research was presented at MARCUS 2019, IEEE SouthEast Conference 2021, and SIEDS 2021. See the Publications & Presentations section below for details.
 
 This work was conducted in collaboration with [Dr. Stu Thompson](http://www.bucknell.edu/fac-staff/stu-thompson) (Bucknell University, Electrical and Computer Engineering) and [Dr. Rosha Wunderlich](https://www.jmu.edu/biology/people/current-people/faculty/faculty-wunderlich.shtml) (JMU Biology).
 
@@ -53,5 +49,6 @@ This work was conducted in collaboration with [Dr. Stu Thompson](http://www.buck
 
 ### Publications & Presentations
 
-- Stephen Mitchell, Jason Forsyth, and Michael S. Thompson, “Exploring Amateur Performance in Athletic Tests Using Wearable Sensors,” *IEEE Systems and Information Engineering Design Symposium (SIEDS)*, Charlottesville, VA, 2021 (full paper, abstract reviewed). ([PDF](/assets/pdf/mitchell-sieds-camera-ready.pdf))
-- Stephen Mitchell, Jason Forsyth, and Michael Thompson, “Assessing Athletic Performance with a Wearable Inertial Measurement Unit,” presentation at the 2021 IEEE SouthEast Conference (short paper). ([PDF](/assets/pdf/MitchellS-T7S2-ieee-ready.pdf))
+- Stephen Mitchell, Jason Forsyth, and Michael S. Thompson, "Exploring Amateur Performance in Athletic Tests Using Wearable Sensors," *IEEE Systems and Information Engineering Design Symposium (SIEDS)*, Charlottesville, VA, 2021 (full paper, abstract reviewed). [[Publication]](/publications/#mitchell2021exploring)
+- Stephen Mitchell, Jason Forsyth, and Michael Thompson, "Assessing Athletic Performance with a Wearable Inertial Measurement Unit," presentation at the 2021 IEEE SouthEast Conference (short paper). [[Publication]](/publications/#mitchell2021assessing)
+- Stephen Mitchell, "IMU-based Drop Jump Measurements," poster presentation at the Mid-Atlantic Research Conference in Undergraduate Scholarship (MARCUS), 2019. [[Publication]](/publications/#mitchell2019marcus)
