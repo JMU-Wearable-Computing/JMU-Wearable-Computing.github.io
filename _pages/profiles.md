@@ -32,7 +32,7 @@ alumni:
     degree: Engineering '25
     employer: M. Eng. in Computer Engineering Virginia Tech
     image: assets/img/headshots/frost.jpg
-  - name: Will Braford
+  - name: Will Bradford
     degree: Engineering '24
     employer: Graf Research Blacksburg VA
     image: assets/img/headshots/bradford.jpg
