@@ -18,16 +18,20 @@ faculty:
     image: assets/img/headshots/burns.jpg
 
 students:
-  - name: Julia Larson
-    degree: Engineering '26
-    topic: Evaluation of haptic feedback on activity performance
-    image: assets/img/headshots/larson.jpg
   - name: Sammy Nelms
     degree: Engineering '27
     topic: Design of wearable computing hardware
     image: assets/img/headshots/nelms.jpg
+  - name: Ella Rohr
+    degree: Computer Science '28
+    topic: Motion capture analysis and visualization
+    image: assets/img/headshots/ella-rohr.jpeg
 
 alumni:
+  - name: Julia Larson
+    degree: Engineering '26
+    employer: PhD Student in Biomedical Engineering at Penn State University
+    image: assets/img/headshots/larson.jpg
   - name: Ryan Frost
     degree: Engineering '25
     employer: M. Eng. in Computer Engineering Virginia Tech
