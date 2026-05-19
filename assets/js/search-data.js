@@ -37,7 +37,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/index.html";
           },
-        },{id: "post-julia-larson-presents-at-virginia-academy-of-science",
+        },{id: "post-julia-larson-graduates-with-honors-on-to-penn-state-phd",
+        
+          title: "Julia Larson Graduates with Honors; On to Penn State PhD",
+        
+        description: "Julia Larson graduated this semester. Next stop is Penn State Biomedical Engineering PhD",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/graduation/";
+          
+        },
+      },{id: "post-prof-tara-burns-presents-vr-work-at-moco-2026",
+        
+          title: "Prof. Tara Burns Presents VR Work at MOCO 2026",
+        
+        description: "Tara Burns presents new VR work at MOCO&#39;26",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/moco2026/";
+          
+        },
+      },{id: "post-julia-larson-presents-at-virginia-academy-of-science",
         
           title: "Julia Larson Presents at Virginia Academy of Science",
         
