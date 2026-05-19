@@ -9,11 +9,11 @@ images:
   photoswipe: true
 ---
 
-Julia Larson graduated Summa Cum Laude with a BS in Engineering and Honors Distinction in Engineering. She also received departmental honors as for Excellence in Scholarly Success, as selected by the Engineering faculty, and the Madison Engineer, as selected by her peers.
+Julia Larson graduated Summa Cum Laude with a BS in Engineering and Honors Distinction in Engineering. She also received departmental honors for Excellence in Scholarly Success, as selected by the Engineering faculty, and the Madison Engineer, as selected by her peers.
 
 Since joining the Wearable Computing Group in 2022, Julia has pursued independent research on haptic feedback for exercise performance and recall. Her honors thesis, "Do you feel the burn? Exploring a new haptic feedback method inspired by physical therapy practice" is under review as a brief at the 2026 International Symposium on Wearable Computing. After graduation, Julia will pursue a PhD in Biomedical Engineering at Pennsylvania State University.
 
-We will miss the joy and life you bring everday to the lab. Good luck!
+We will miss the joy and life you bring everyday to the lab. Good luck!
 
 <div class="pswp-gallery" id="gallery-julia-graduation" role="region" aria-label="Gallery">
   <div class="row">
