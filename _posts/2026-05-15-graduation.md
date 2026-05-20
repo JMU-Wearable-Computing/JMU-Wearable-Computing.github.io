@@ -15,7 +15,7 @@ We will miss the joy and life you bring everyday to the lab. Good luck!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/julia-graduation/julia-engineering-honors.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/julia-graduation/julia-sammy-vt.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/julia-graduation/lab-vt-visit2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -33,7 +33,7 @@ We will miss the joy and life you bring everyday to the lab. Good luck!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/julia-graduation/julia-sammy-vt.JPG" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/julia-graduation/julia-engineering-honors.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/julia-graduation/julia-graduation-cise.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
