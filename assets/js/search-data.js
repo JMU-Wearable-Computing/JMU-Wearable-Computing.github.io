@@ -48,6 +48,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/graduation/";
           
         },
+      },{id: "post-movement-motion-capture-and-machines-a-new-dance-engineering-course",
+        
+          title: "Movement, Motion Capture, and Machines: A New Dance + Engineering Course",
+        
+        description: "Prof. Forsyth co-taught a new interdisciplinary course pairing motion capture and embedded sensing with dance, culminating in a public showcase",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/dance-tech/";
+          
+        },
       },{id: "post-prof-tara-burns-presents-vr-work-at-moco-2026",
         
           title: "Prof. Tara Burns Presents VR Work at MOCO 2026",
