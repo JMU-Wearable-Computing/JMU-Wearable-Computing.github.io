@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "people",
-          description: "Faculty, student, and alumni of the Wearable Computing Group",
+          description: "Faculty, students, and alumni of the Wearable Computing Group",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
