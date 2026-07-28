@@ -2,7 +2,7 @@
 layout: people
 permalink: /people/
 title: people
-description: Faculty, student, and alumni of the Wearable Computing Group
+description: Faculty, students, and alumni of the Wearable Computing Group
 nav: true
 nav_order: 2
 
