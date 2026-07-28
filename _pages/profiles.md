@@ -26,6 +26,10 @@ students:
     degree: Computer Science '28
     topic: Motion capture analysis and visualization
     image: assets/img/headshots/ella-rohr.jpeg
+  - name: Tony Postak
+    degree: Computer Science '27
+    topic: Motion capture analysis and visualization
+    image: assets/img/headshots/postak.jpg
 
 alumni:
   - name: Julia Larson
